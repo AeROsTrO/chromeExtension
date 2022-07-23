@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  min-width: 400px;
+}
+input {
+  padding: 10px 10px 10px 10px;
+  width: 100%;
+  box-sizing: border-box;
+  border: 2px solid purple;
+  margin-bottom: 4px;
+  border-radius: 4px;
+}
+button {
+  background: plum;
+  color: purple;
+  padding: 10px 20px;
+  border: 1px solid plum;
+  /* border: none; */
+  font-weight: bold;
+  border-radius: 5px;
+}
+#delete-btn {
+  background: none;
+  border: 1px solid purple;
+}
+ul {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 0;
+}
+li {
+  margin-top: 5px;
+}
+li a {
+  color: purple;
+  text-decoration: wavy;
+  border-bottom: 1px solid plum;
+}
