@@ -1,2 +1,2 @@
 # chromeExtension
-a chrome extension to bookmark tabs/sites \
+a chrome extension to bookmark tabs/sites
